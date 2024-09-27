@@ -1,0 +1,62 @@
+<DOCTYPE! html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
+
+    <style>
+
+    </style>
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>Formulário</h1>
+    <p style="font-size: 40;">Preencha o Formulário:</p>
+    <form></form>
+    <label>Nome:</label>
+    <input type="text" placeholder="Digite seu nome: "required>
+    <br>
+    <label>E-mail:</label>
+    <input type="email" placeholder="Digite seu E-mail: "required>
+    <br>
+    <label>Senha:</label>
+    <input type="password" placeholder="Digite sua senha: "required>
+    <br><br>
+    <p>Sua idade: </p>
+    <input type="radio"
+    <label> 18 </label>
+    <br>
+    <input type="radio"
+    <label> 19 </label>
+    <br>
+    <input type="radio"
+    <label> 20 </label>
+    <br><br>
+
+    <p>Sexo</p>
+    <input type="checkbox" name="sexo" value="masculino">
+    <label>Masculino</label>
+    <input type="checkbox" name="sexo" value="feminino">
+    <label>Feminino</label>
+    <br><br>
+
+    <p>Escolha uma cor: 
+        <select>
+            <option>
+                Vermelho
+            </option>
+            <option>
+                Preto
+            </option>
+            <option>
+                Amarelo
+            </option>
+        </select>
+    <p>Digite sua mensagem: </p>
+    <textarea placeholder="Digite uma mensagem: " rows="15" cols="15"></textarea>
+    <br>
+    <input type="submit" value="Enviar Formulario">
+    </p>
+
+</body>
+</html>
