@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+			"http://www.w3.org/TR/html4/strict.dtd">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<html>
+	<head>
+		<title>Curriculo Vitae</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+	<body>
+		<h1>Curriculo Vitae</h1>
+		
+		<ul id="menu">
+			<li><a href="cv_igor_resumido.html">Resumido</a></li>
+			<li class="ativo">Completo</li>
+		</ul>
+		
+		<div class="secao">
+			<h2>Dados Pessoais</h2>			
+				<div id="hcard-Ademir-Mazer-Jr" class="vcard">
+				  <img src="f.elconfidencial.com_original_09f_75f_610_09f75f61060ddbb36bac4960e843d508.jpg" alt="photo of Chuck Norris" class="photo" style="width: 200px; height: 200px;"/>
+				 <span class="given-name">Igor</span>
+				  <span class="additional-name">Menezes</span>
+				  <span class="family-name">Sales</span>
+                  <span class="family-name">Vieira</span>
+				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
+
+				 <a class="email" href="mailto:igormsv66@gmail.com">igormsv66@gmail.com</a>
+				 <a class="url" href="linkedin.com/in/igorvieira-0b1809168">linkedin.com/in/igorvieira-0b1809168</a>
+				
+				<div class="adr">
+				  <span class="locality">Manaus</span>
+				, 
+				  <span class="region">Amazonas</span>
+
+				 </div>
+				</div>
+		</div>
+
+		<div class="secao">
+			<h2>Dados Profissionais</h2>
+			
+			<p><label>Empresa</label>The Brownie: 2022 - Presente</p>
+			<p><label>Empresa</label>Samsung Ocean: 2021 - 2022</p>
+			<p><label>Empresa</label>Reitoria da Universidade do Estado do Amazonas - UEA</p>
+		</div>
+
+		<div class="secao">
+			<h2>Formação</h2>
+			
+			<p><label>Ensino Superior</label>(Em andamento) Análise e Desenvolvimento de Sistemas - FMF</p>
+			<p><label>Ensino Superior</label>Administração - UEA</p>
+			<p><label>Ensino Médio</label>Colégio Santa Dorotéia</p>
+		</div>
+
+        <div class="secao">
+			<h2>Idiomas</h2>
+			
+			<p><label>Idioma 1</label>Português</p>
+			<p><label>Idioma Complementar</label>Inglês Avançado</p>
+			<p><label>Idioma Complementar</label>Alemão intermediário</p>
+		</div>
+
+        <div class="secao"><h2>Cursos Complementares</h2>
+        
+            <p><label>Programação</label>Lógica de Programação - Fundação Bradesco</p>
+            <p><label>Programação</label>Programação Orientada a Objetos - Fundação Bradesco</p>
+            <p><label>Computação</label>AWS Cloud Practioner - KA Solutions</p>
+            <p><label>Gestão</label>Design Thinking Experience - Echos Online</p>
+        </div>
+    
+		
+		<div id="footnote">
+			<li id="1-fn">1 - Microformato <a href="#fn1" title="volte">^</a></li>
+			<li>Este <a href="http://microformats.org/wiki/hcard">hCard</a> foi criado com <a href="http://microformats.org/code/hcard/creator">hCard creator</a>.</li>
+		</div>		
+	</body>
+</html>
