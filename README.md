@@ -1,6 +1,7 @@
 #CV_Igor_Completo
 
-#**CV_igor**: Parte 1
+**CV_igor**
+# Parte 1
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
 			"http://www.w3.org/TR/html4/strict.dtd">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
@@ -81,6 +82,7 @@
 </html>
 
 #**CV_igor_resumido**
+# Parte 2
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
 			"http://www.w3.org/TR/html4/strict.dtd">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
@@ -119,7 +121,8 @@
 	</body>
 </html>
 
-#**css**
+# **css**
+# Parte 3
 body {
 	font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
 	color: #3b3b3b;
