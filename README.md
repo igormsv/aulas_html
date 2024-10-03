@@ -1,4 +1,5 @@
 #CV_Igor_Completo
+
 #**CV_igor**: Parte 1
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
 			"http://www.w3.org/TR/html4/strict.dtd">
@@ -118,7 +119,7 @@
 	</body>
 </html>
 
-**css**
+#**css**
 body {
 	font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
 	color: #3b3b3b;
